@@ -5,5 +5,5 @@ import { EDAAppStack } from "../lib/eda-app-stack";
 
 const app = new cdk.App();
 new EDAAppStack(app, "EDAStack", {
-  env: { region: "eu-west-1" },
+  env: { account: "169523632524", region: "eu-west-1" },
 });

@@ -1,0 +1,2 @@
+eda-lab git repo:
+https://github.com/Olena-Khyzhniak/eda-lab.git
